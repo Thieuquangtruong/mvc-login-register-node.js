@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "develop": "node index.js"
+    "develop": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +16,7 @@
     "express": "^4.17.1",
     "express-session": "^1.18.0",
     "mongoose": "^6.0.3",
+    "nodemon": "^3.0.3",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0"
   }

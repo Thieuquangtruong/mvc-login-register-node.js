@@ -58,7 +58,7 @@ const registerUser = (req, res) => {
 
 // For View
 const loginView = (req, res) => {
-  res.render("login", {});
+  res.render("login1", {});
 };
 
 //Logging in Function
